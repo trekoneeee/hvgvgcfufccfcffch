@@ -130,7 +130,6 @@ urllib3==2.2.1
 wcwidth==0.2.8
 webdriver-manager==4.0.1
 Werkzeug==3.0.1
-windows-curses==2.3.2
 WMI==1.5.1
 wsproto==1.2.0
 xxhash==3.4.1
